@@ -1,6 +1,6 @@
-# BharatQR 💳📲
+# 📲 BharatQR 
 
-**BharatQR** is a simple and secure platform that allows you to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly.
+**BharatQR** is a simple and secure platform that allows you to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly. 🚀
 
 ---
 
@@ -17,6 +17,15 @@
 
 ---
 
+## 🧰 Tech Stack
+
+| Technology       | Description              |
+|------------------|-----------------------   |
+| 🐍 Python         | Programming language   |
+| ⚡ Streamlit      | Web app framework      |
+| 🔳 qrcode library  | QR code generation    |
+
+---
 
 ## 🛠️ Installation 
 
@@ -40,15 +49,6 @@
    ```bash
    streamlit run app.py
    ```
-
----
-
-## 🧰 Technologies Used 
-
-* Python 🐍
-* Streamlit ⚡
-* qrcode library 🔳
-* HTML/CSS for frontend styling 🎨
 
 ---
 
