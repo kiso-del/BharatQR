@@ -1,20 +1,24 @@
 # BharatQR 💳📲
 
-**BharatQR** is a simple and secure web application that allows users to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly.
+**BharatQR** is a simple and secure platform that allows you to generate UPI QR codes instantly without any signup. It helps individuals and businesses accept UPI payments easily and quickly.
 
 ---
 
-## Features ✨
+## ✨ Features 
 
-* Generate UPI QR codes by entering your UPI ID 🆔
-* No account creation or signup required 🚫✍️
-* Clean and user-friendly interface 🎨
-* Instant QR code generation for fast payment acceptance ⚡
-* Responsive design for desktop and mobile users 📱💻
+| Feature                                         | Description                                    |
+|------------------------------------------------|-----------------------------------------------  |
+| 🆔 Generate UPI QR codes                        | By entering your UPI ID                        |
+| 🚫 No signup required                          | No account creation or signup required          |
+| 🎨 Clean interface                              | User-friendly and easy to navigate             |
+| ⚡ Instant QR code generation                    | Fast payment acceptance                       |
+| 💾 Download QR code                            | Easily download your generated QR code          |
+| 💻 Responsive design                           | Works well on desktop and mobile devices        |
 
 ---
 
-## Installation 🛠️
+
+## 🛠️ Installation 
 
 1. Clone the repository
 
@@ -39,7 +43,7 @@
 
 ---
 
-## Technologies Used 🧰
+## 🧰 Technologies Used 
 
 * Python 🐍
 * Streamlit ⚡
