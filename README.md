@@ -54,4 +54,36 @@
 
 ## Contributing 🤝
 
-Contributions are welcome! ✨
+We welcome contributions! ✨
+
+1. **🍴 Fork the repository**
+
+2. **📥 Clone your fork**
+
+   ```bash
+   git clone git clone https://github.com/KrishBharadwaj5678/BharatQR.git
+   cd BharatQR
+   ```
+
+3. **🌿 Create a new branch**
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **🛠️ Make your changes**
+
+5. **💾 Commit your changes**
+
+   ```bash
+   git add .
+   git commit -m "Add feature XYZ or Fix bug ABC"
+   ```
+
+6. **🚀 Push to your branch**
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+7. **📬 Open a Pull Request**
