@@ -32,14 +32,14 @@
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/bharatqr.git
+   git clone https://github.com/KrishBharadwaj5678/BharatQR.git
    ```
 2. Navigate to the project directory
 
    ```bash
-   cd bharatqr
+   cd BharatQR
    ```
-3. Install required dependencies (example for Python/Streamlit app)
+3. Install required dependencies
 
    ```bash
    pip install -r requirements.txt
@@ -54,4 +54,4 @@
 
 ## Contributing 🤝
 
-Contributions are welcome! Feel free to submit issues and pull requests for improvements or bug fixes. 🐞✨
+Contributions are welcome! ✨
